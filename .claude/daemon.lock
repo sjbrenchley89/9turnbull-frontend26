@@ -1,0 +1,13 @@
+{
+  "pid": 972,
+  "version": "2.1.145",
+  "jsonPath": "C:\\Users\\sjbre\\.claude\\daemon.json",
+  "logPath": "C:\\Users\\sjbre\\.claude\\daemon.log",
+  "startedAt": 1779269135874,
+  "origin": "transient",
+  "spawnedBy": {
+    "label": "claude agents",
+    "cwd": "C:\\Users\\sjbre",
+    "pid": 24184
+  }
+}

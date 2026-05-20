@@ -1,0 +1,29 @@
+{
+  "state": "blocked",
+  "detail": "Credit balance is too low",
+  "tempo": "blocked",
+  "inFlight": {
+    "tasks": 0,
+    "queued": 0,
+    "kinds": []
+  },
+  "needs": "usage limit reached — check plan · Credit balance is too low",
+  "output": null,
+  "children": null,
+  "linkScanOffset": 0,
+  "template": "claude",
+  "respawnFlags": [
+    "--agent",
+    "claude"
+  ],
+  "intent": "https://github.com/ruvnet/ruflo.git",
+  "sessionId": "90472250-1b06-4b53-b4d7-b7db980f861f",
+  "resumeSessionId": "90472250-1b06-4b53-b4d7-b7db980f861f",
+  "daemonShort": "90472250",
+  "cwd": "C:\\Users\\sjbre",
+  "createdAt": "2026-05-20T09:25:27.956Z",
+  "updatedAt": "2026-05-20T09:25:56.244Z",
+  "firstTerminalAt": null,
+  "originCwd": "C:\\Users\\sjbre",
+  "backend": "daemon"
+}

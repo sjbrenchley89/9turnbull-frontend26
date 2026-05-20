@@ -1,0 +1,58 @@
+{
+  "proto": 1,
+  "supervisorPid": 972,
+  "updatedAt": 1779269149339,
+  "workers": {
+    "90472250": {
+      "pid": 61176,
+      "sessionId": "90472250-1b06-4b53-b4d7-b7db980f861f",
+      "rendezvousSock": "\\\\.\\pipe\\cc-daemon-a22127c0b3ff1df1-rv-90472250",
+      "ptySock": "\\\\.\\pipe\\cc-daemon-a22127c0b3ff1df1-pty-90472250",
+      "cliVersion": "2.1.145",
+      "startedAt": 1779269137708,
+      "attempt": 1,
+      "cwd": "C:\\Users\\sjbre",
+      "dispatch": {
+        "proto": 1,
+        "short": "90472250",
+        "nonce": "9ad45839",
+        "sessionId": "90472250-1b06-4b53-b4d7-b7db980f861f",
+        "createdAt": 1779269128015,
+        "source": "fleet",
+        "cwd": "C:\\Users\\sjbre",
+        "launch": {
+          "mode": "prompt",
+          "args": [
+            "--session-id",
+            "90472250-1b06-4b53-b4d7-b7db980f861f",
+            "--agent",
+            "claude",
+            "--",
+            "https://github.com/ruvnet/ruflo.git"
+          ]
+        },
+        "env": {},
+        "isolation": "none",
+        "respawnFlags": [
+          "--agent",
+          "claude"
+        ],
+        "agent": "claude",
+        "seed": {
+          "intent": "https://github.com/ruvnet/ruflo.git"
+        },
+        "cols": 120,
+        "rows": 28
+      },
+      "decModes": [
+        1004,
+        1000,
+        1002,
+        1003,
+        1006,
+        2004,
+        2031
+      ]
+    }
+  }
+}

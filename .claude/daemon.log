@@ -1,0 +1,6 @@
+[2026-05-20T09:25:35.861Z] [supervisor] ─── daemon start ─── version=2.1.145 pid=972 origin=transient
+[2026-05-20T09:25:37.398Z] [supervisor] auth: no token found, will re-check keychain every 30s
+[2026-05-20T09:25:37.469Z] [supervisor] workers=0
+[2026-05-20T09:25:37.501Z] [supervisor] ─── daemon start ─── version=2.1.145 pid=62256 origin=transient
+[2026-05-20T09:25:37.521Z] [supervisor] another daemon is already running (pid=972, version=2.1.145, origin=transient; an on-demand daemon never displaces a running one). Stop it with `taskkill /PID 972`, then retry.
+[2026-05-20T09:25:37.708Z] [bg] bg spawned 90472250 (fleet)

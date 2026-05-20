@@ -1,0 +1,59 @@
+# Windows system files
+NTUSER.DAT
+NTUSER.DAT*
+ntuser.dat*
+ntuser.ini
+*.regtrans-ms
+*.blf
+*.TxR.*
+
+# Windows user directories (personal/sensitive)
+AppData/
+Application Data/
+Contacts/
+Cookies/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Local Settings/
+Music/
+My Documents/
+NetHood/
+OneDrive/
+OneDrive - */
+Pictures/
+PrintHood/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+Start Menu/
+Templates/
+Thumbnails/
+Videos/
+
+# Sensitive config/auth
+.local/
+.mcp-auth/
+.docker/
+.fop/
+.pdfbox.cache
+.thumbnails/
+
+# Dot-files that may contain credentials
+.gitconfig
+
+# Credentials and secrets
+.claude/.credentials.json
+
+# Nested git repos
+-claude-code/
+
+# Shell history
+.bash_history
+.bash_sessions/
+
+# Backup files
+*.backup
