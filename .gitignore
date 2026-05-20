@@ -51,8 +51,8 @@ Videos/
 # Nested git repos
 -claude-code/
 
-# Claude session tool-result scratch files
-.claude/projects/**/tool-results/
+# Claude session data (transcripts, tool results — changes every turn)
+.claude/projects/
 
 # Shell history
 .bash_history
