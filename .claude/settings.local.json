@@ -5,7 +5,8 @@
       "WebFetch(domain:github.com)",
       "Bash(npm install *)",
       "Bash(npm --version)",
-      "Bash(npx --version)"
+      "Bash(npx --version)",
+      "Bash(git add *)"
     ]
   }
 }
